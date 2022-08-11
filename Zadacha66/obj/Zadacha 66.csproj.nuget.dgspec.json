@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Обучение\\Seminar 9\\Zadacha 66\\Zadacha 66.csproj": {}
+    "D:\\Обучение\\Seminar 9\\Zadacha66\\Zadacha 66.csproj": {}
   },
   "projects": {
-    "D:\\Обучение\\Seminar 9\\Zadacha 66\\Zadacha 66.csproj": {
+    "D:\\Обучение\\Seminar 9\\Zadacha66\\Zadacha 66.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Обучение\\Seminar 9\\Zadacha 66\\Zadacha 66.csproj",
+        "projectUniqueName": "D:\\Обучение\\Seminar 9\\Zadacha66\\Zadacha 66.csproj",
         "projectName": "Zadacha 66",
-        "projectPath": "D:\\Обучение\\Seminar 9\\Zadacha 66\\Zadacha 66.csproj",
+        "projectPath": "D:\\Обучение\\Seminar 9\\Zadacha66\\Zadacha 66.csproj",
         "packagesPath": "C:\\Users\\AleXander Masalov\\.nuget\\packages\\",
-        "outputPath": "D:\\Обучение\\Seminar 9\\Zadacha 66\\obj\\",
+        "outputPath": "D:\\Обучение\\Seminar 9\\Zadacha66\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\AleXander Masalov\\AppData\\Roaming\\NuGet\\NuGet.Config"
